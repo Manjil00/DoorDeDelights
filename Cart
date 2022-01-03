@@ -1,9 +1,6 @@
 package DoordeDpackage;
 
-/**
- *
- * @author ACER
- */
+
 public class Cart extends javax.swing.JFrame {
 
     /**
