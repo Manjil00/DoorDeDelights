@@ -119,6 +119,7 @@ break;
 }
 }
 } catch (ClassNotFoundException ex) {
+    
 java.util.logging.Logger.getLogger(Signup.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
 } catch (InstantiationException ex) {
 java.util.logging.Logger.getLogger(Signup.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
