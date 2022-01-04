@@ -130,24 +130,3 @@ java.util.logging.Logger.getLogger(Signup.class.getName()).log(java.util.logging
 //</editor-fold>
 
 
-
-/* Create and display the form */
-java.awt.EventQueue.invokeLater(new Runnable() {
-    public void run() {
-    new Signup().setVisible(true);
-    }
-    });
-    }
-    
-    
-    
-    // Variables declaration - do not modify
-    private javax.swing.JButton jButton1;
-    private javax.swing.JLabel jLabel1;
-    private javax.swing.JPasswordField jPasswordField1;
-    private javax.swing.JPasswordField jPasswordField2;
-    private javax.swing.JTextField jTextField1;
-    private javax.swing.JTextField jTextField2;
-    private javax.swing.JTextField jTextField3;
-    // End of variables declaration
-    }
