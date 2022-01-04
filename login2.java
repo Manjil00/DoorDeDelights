@@ -4,14 +4,11 @@
 */
 package DoordeDpackage;
 
-
-
 /**
 *
 * @author ACER
 */
 public class Signup extends javax.swing.JFrame {
-
 
 
 /**
