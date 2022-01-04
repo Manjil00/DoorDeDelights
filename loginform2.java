@@ -84,8 +84,6 @@ jButton1.setForeground(new java.awt.Color(191, 46, 46));
 jButton1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/DoordeDpackage/Signup Buutoon.png"))); // NOI18N
 getContentPane().add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(540, 610, 200, 80));
 
-
-
 jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/DoordeDpackage/iMac - 2 (1).png"))); // NOI18N
 getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, -1, -1));
 
@@ -119,9 +117,10 @@ break;
 }
 }
 } catch (ClassNotFoundException ex) {
-    
+
 java.util.logging.Logger.getLogger(Signup.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
 } catch (InstantiationException ex) {
+
 java.util.logging.Logger.getLogger(Signup.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
 } catch (IllegalAccessException ex) {
 java.util.logging.Logger.getLogger(Signup.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
